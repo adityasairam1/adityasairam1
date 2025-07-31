@@ -109,7 +109,7 @@ Welcome to my GitHub! I'm a **Full Stack Software Engineer** with 4+ years of ex
 
 - **🏢 Current**: Full Stack Software Engineer at Robotics Technologies (Feb 2025 - Present)
 - **🎓 Previous**: Software Developer & Graduate Assistant at Cleveland State University (Aug 2023 - Dec 2024)  
-- **☁️ Previous**: Full Stack Developer at Amazon India (Jun 2021 - Dec 2022)
+- **☁️ Previous**: Data Catalog Engineer at Amazon India (Jun 2021 - Dec 2022)
 - **💻 Previous**: Software Engineer at PyramidSoftSol India (May 2018 - May 2021)
 
 **Key Impact Metrics**:
