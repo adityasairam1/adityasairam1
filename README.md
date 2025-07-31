@@ -204,7 +204,7 @@ Show Image
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityasairam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=adityasairam1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 <div align="center">
 "Crafting exceptional digital experiences, one line of code at a time" 🚀
