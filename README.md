@@ -74,42 +74,39 @@ Welcome to my GitHub! I'm a **Full Stack Software Engineer** with 4+ years of ex
 • Built full-stack SaaS platform with real-time collaboration features  
 • Implemented role-based authentication, billing integration, and admin dashboard  
 • Serves 10,000+ active users with 99.9% uptime and sub-200ms response times  
-• **Live Demo**: [saas-platform.adityasairam.dev](https://saas-platform.adityasairam.dev)
+
 
 ### 🤖 [AI-Powered Analytics Dashboard](https://github.com/adityasairam/ai-analytics-dashboard)
 **Tech Stack**: React, Python, FastAPI, TensorFlow, Chart.js, WebSockets  
 • Developed intelligent analytics platform with ML-driven insights and predictions  
 • Real-time data visualization with interactive charts and conversational query interface  
 • Integrated OpenAI GPT for natural language data exploration  
-• **Live Demo**: [analytics.adityasairam.dev](https://analytics.adityasairam.dev)
+
 
 ### ⚡ [Real-time Collaboration App](https://github.com/adityasairam/realtime-collab-app)
 **Tech Stack**: React, Socket.io, Node.js, MongoDB, Redis  
 • Built collaborative whiteboard application with real-time synchronization  
 • Supports 100+ concurrent users with operational transformation algorithms  
 • Features: live cursors, chat, file sharing, and persistent room sessions  
-• **Live Demo**: [collab.adityasairam.dev](https://collab.adityasairam.dev)
 
 ### 🛍️ [E-Commerce Platform with AI Recommendations](https://github.com/adityasairam/ai-ecommerce-platform)
 **Tech Stack**: Next.js, TypeScript, Stripe, PostgreSQL, Python ML Service  
 • Full-featured e-commerce platform with AI-powered product recommendations  
 • Integrated payment processing, inventory management, and order tracking  
 • Machine learning recommendation engine improving conversion by 25%  
-• **Live Demo**: [shop.adityasairam.dev](https://shop.adityasairam.dev)
 
 ### 📊 [Data Visualization Studio](https://github.com/adityasairam/data-viz-studio)
 **Tech Stack**: React, D3.js, Node.js, Express, Python, Pandas  
 • Interactive data visualization tool with drag-and-drop chart builder  
 • Supports CSV uploads, API integrations, and real-time data streaming  
 • Exportable dashboards and embeddable chart widgets  
-• **Live Demo**: [dataviz.adityasairam.dev](https://dataviz.adityasairam.dev)
 
 ### 🔧 [DevOps Automation Suite](https://github.com/adityasairam/devops-automation-suite)
 **Tech Stack**: React, Go, Docker, Kubernetes, Terraform, GitHub Actions  
 • Web-based DevOps dashboard for CI/CD pipeline management  
 • Automated deployment workflows, environment provisioning, and monitoring  
 • Infrastructure as Code templates and cost optimization recommendations  
-• **Live Demo**: [devops.adityasairam.dev](https://devops.adityasairam.dev)
+
 
 ---
 
@@ -150,4 +147,4 @@ Welcome to my GitHub! I'm a **Full Stack Software Engineer** with 4+ years of ex
 - 🎓 **Master's in Computer Science** - Cleveland State University
 - ☁️ **AWS Certified Cloud Practitioner** (CLF-C02)
 - 🔵 **Microsoft Certified: Azure Developer Associate**
-- 🟢 **Google Cloud Professional Cloud Database En
+- 🟢 **Google Cloud Professional Cloud Database Engineer**
