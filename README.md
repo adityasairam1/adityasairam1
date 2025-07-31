@@ -116,7 +116,7 @@ Welcome to my GitHub! I'm a **Full Stack Software Engineer** with 4+ years of ex
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityasairam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityasairam1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasairam&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
