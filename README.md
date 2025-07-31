@@ -148,3 +148,64 @@ Welcome to my GitHub! I'm a **Full Stack Software Engineer** with 4+ years of ex
 - ☁️ **AWS Certified Cloud Practitioner** (CLF-C02)
 - 🔵 **Microsoft Certified: Azure Developer Associate**
 - 🟢 **Google Cloud Professional Cloud Database Engineer**
+💼 Professional Experience Highlights
+
+🏢 Current: Full Stack Software Engineer at Robotics Technologies (Feb 2025 - Present)
+🎓 Previous: Software Developer & Graduate Assistant at Cleveland State University (Aug 2023 - Dec 2024)
+☁️ Previous: Full Stack Developer at Amazon India (Jun 2021 - Dec 2022)
+💻 Previous: Software Engineer at PyramidSoftSol India (May 2018 - May 2021)
+
+Key Impact Metrics:
+
+🌐 Built 15+ production applications serving 500,000+ users globally
+⚡ Improved application performance by 60% through optimization and caching strategies
+🎯 Achieved 99.9% uptime across all deployed applications with comprehensive monitoring
+💰 Reduced infrastructure costs by 35% through efficient cloud architecture and auto-scaling
+🚀 Accelerated development velocity by 40% through reusable component libraries and tooling
+
+
+🌟 What I'm Building
+
+🔬 Open Source: Contributing to React ecosystem and developer tooling projects
+🚀 Innovation: Exploring WebAssembly for high-performance web applications
+📚 Learning: Deep diving into advanced React patterns, micro-frontends, and edge computing
+🤝 Community: Writing technical blogs, creating coding tutorials, and mentoring developers
+🎯 Side Projects: Building SaaS products that solve real developer productivity challenges
+
+
+📫 Let's Connect!
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
+
+💡 Fun Facts
+
+🎯 I've shipped 20+ full-stack applications from concept to production
+🌍 My applications are used by developers and businesses across 40+ countries
+⚡ I'm obsessed with performance optimization - every kilobyte and millisecond matters!
+🤖 I love combining traditional web development with cutting-edge AI capabilities
+📈 I've helped teams reduce development time by 50% through better tooling and practices
+🎨 I believe great UX is just as important as solid backend architecture
+🚀 I'm passionate about developer experience and building tools that make coding more enjoyable
+
+
+🎯 Current Focus
+2025 Goals:
+
+🏗️ Architecture: Mastering micro-frontend architectures and module federation
+🤖 AI Integration: Building production-ready AI features into web applications
+📱 Mobile: Expanding into React Native and cross-platform development
+🌐 Web3: Exploring blockchain integration and decentralized application development
+🎓 Teaching: Creating comprehensive full-stack development courses and workshops
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityasairam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+<div align="center">
+"Crafting exceptional digital experiences, one line of code at a time" 🚀
+</div>
