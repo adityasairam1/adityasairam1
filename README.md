@@ -2,6 +2,8 @@
 
 ## 🚀 Full Stack Software Engineer | Enterprise Applications | AI/ML Integration Specialist
 
+Full Stack Engineer passionate about building exceptional user experiences with React and Node.js, and a tea lover 🍵
+
 Welcome to my GitHub! I'm a **Full Stack Software Engineer** with 4+ years of experience building **scalable enterprise applications** and **intelligent web platforms**. I specialize in creating **end-to-end solutions** that seamlessly integrate AI/ML capabilities with modern web technologies, serving millions of users across **production-grade systems**.
 
 ---
@@ -41,29 +43,18 @@ Welcome to my GitHub! I'm a **Full Stack Software Engineer** with 4+ years of ex
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### **AI/ML Integration**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 
 ### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
@@ -75,13 +66,11 @@ Welcome to my GitHub! I'm a **Full Stack Software Engineer** with 4+ years of ex
 • Implemented role-based authentication, billing integration, and admin dashboard  
 • Serves 10,000+ active users with 99.9% uptime and sub-200ms response times  
 
-
 ### 🤖 [AI-Powered Analytics Dashboard](https://github.com/adityasairam/ai-analytics-dashboard)
 **Tech Stack**: React, Python, FastAPI, TensorFlow, Chart.js, WebSockets  
 • Developed intelligent analytics platform with ML-driven insights and predictions  
 • Real-time data visualization with interactive charts and conversational query interface  
 • Integrated OpenAI GPT for natural language data exploration  
-
 
 ### ⚡ [Real-time Collaboration App](https://github.com/adityasairam/realtime-collab-app)
 **Tech Stack**: React, Socket.io, Node.js, MongoDB, Redis  
@@ -101,107 +90,82 @@ Welcome to my GitHub! I'm a **Full Stack Software Engineer** with 4+ years of ex
 • Supports CSV uploads, API integrations, and real-time data streaming  
 • Exportable dashboards and embeddable chart widgets  
 
-### 🔧 [DevOps Automation Suite](https://github.com/adityasairam/devops-automation-suite)
-**Tech Stack**: React, Go, Docker, Kubernetes, Terraform, GitHub Actions  
-• Web-based DevOps dashboard for CI/CD pipeline management  
-• Automated deployment workflows, environment provisioning, and monitoring  
-• Infrastructure as Code templates and cost optimization recommendations  
-
-
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityasairam1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasairam&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasairam1&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasairam&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasairam1&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🏅 Skills & Certifications
+## 💼 Professional Experience Highlights
 
-### **Frontend Development**
-- ⚛️ **React Ecosystem**: React, Redux, Next.js, Gatsby, React Native
-- 💻 **Modern JavaScript**: ES6+, TypeScript, Webpack, Babel
-- 🎨 **UI/UX**: Responsive design, CSS-in-JS, Tailwind, Material-UI, Chakra UI
-- 📱 **Cross-Platform**: Progressive Web Apps, Mobile-first design
+- **🏢 Current**: Full Stack Software Engineer at Robotics Technologies (Feb 2025 - Present)
+- **🎓 Previous**: Software Developer & Graduate Assistant at Cleveland State University (Aug 2023 - Dec 2024)  
+- **☁️ Previous**: Full Stack Developer at Amazon India (Jun 2021 - Dec 2022)
+- **💻 Previous**: Software Engineer at PyramidSoftSol India (May 2018 - May 2021)
 
-### **Backend Development**
-- 🖥️ **Server Technologies**: Node.js, Express, Fastify, Python Flask/FastAPI, Java Spring Boot
-- 🗄️ **Database Design**: SQL optimization, NoSQL modeling, data migration strategies
-- 🔌 **API Development**: REST, GraphQL, WebSocket, gRPC, API versioning
-- 🏗️ **Architecture**: Microservices, serverless, event-driven design
+**Key Impact Metrics**:
+- 🌐 Built **15+ production applications** serving **500,000+ users** globally
+- ⚡ Improved application performance by **60%** through optimization and caching strategies
+- 🎯 Achieved **99.9% uptime** across all deployed applications with comprehensive monitoring
+- 💰 Reduced infrastructure costs by **35%** through efficient cloud architecture and auto-scaling
+- 🚀 Accelerated development velocity by **40%** through reusable component libraries and tooling
 
-### **DevOps & Cloud**
-- ☁️ **Cloud Platforms**: AWS (Solutions Architect track), GCP, Azure
-- 🐳 **Containerization**: Docker, Kubernetes, Helm charts, service mesh
-- 🔄 **CI/CD**: GitHub Actions, Jenkins, GitLab CI, automated testing strategies
-- 📊 **Monitoring**: Application performance monitoring, logging, alerting
+---
 
-### **Certifications**
-- 🎓 **Master's in Computer Science** - Cleveland State University
-- ☁️ **AWS Certified Cloud Practitioner** (CLF-C02)
-- 🔵 **Microsoft Certified: Azure Developer Associate**
-- 🟢 **Google Cloud Professional Cloud Database Engineer**
-💼 Professional Experience Highlights
+## 🌟 What I'm Working On
 
-🏢 Current: Full Stack Software Engineer at Robotics Technologies (Feb 2025 - Present)
-🎓 Previous: Software Developer & Graduate Assistant at Cleveland State University (Aug 2023 - Dec 2024)
-☁️ Previous: Full Stack Developer at Amazon India (Jun 2021 - Dec 2022)
-💻 Previous: Software Engineer at PyramidSoftSol India (May 2018 - May 2021)
+- 🔬 **Open Source**: Contributing to React ecosystem and developer tooling projects
+- 🚀 **Innovation**: Exploring WebAssembly for high-performance web applications 📱 **Learning**: Deep diving into advanced React patterns, micro-frontends, and edge computing 🎯 **Side Projects**: Building SaaS products that solve real developer productivity challenges
 
-Key Impact Metrics:
+---
 
-🌐 Built 15+ production applications serving 500,000+ users globally
-⚡ Improved application performance by 60% through optimization and caching strategies
-🎯 Achieved 99.9% uptime across all deployed applications with comprehensive monitoring
-💰 Reduced infrastructure costs by 35% through efficient cloud architecture and auto-scaling
-🚀 Accelerated development velocity by 40% through reusable component libraries and tooling
+## 📫 Let's Connect!
 
-
-🌟 What I'm Building
-
-🔬 Open Source: Contributing to React ecosystem and developer tooling projects
-🚀 Innovation: Exploring WebAssembly for high-performance web applications
-📚 Learning: Deep diving into advanced React patterns, micro-frontends, and edge computing
-🤝 Community: Writing technical blogs, creating coding tutorials, and mentoring developers
-🎯 Side Projects: Building SaaS products that solve real developer productivity challenges
-
-
-📫 Let's Connect!
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adityasairam.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sairam-pullabhatla-90561817b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityapsairam@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityasairam_dev)
+
 </div>
 
-💡 Fun Facts
+---
 
-🎯 I've shipped 20+ full-stack applications from concept to production
-🌍 My applications are used by developers and businesses across 40+ countries
-⚡ I'm obsessed with performance optimization - every kilobyte and millisecond matters! 🤖 I love combining traditional web development with cutting-edge AI capabilities
-📈 I've helped teams reduce development time by 50% through better tooling and practices 🎨 I believe great UX is just as important as solid backend architecture
-🚀 I'm passionate about developer experience and building tools that make coding more enjoyable
+## 💡 Fun Facts
 
+- 🎯 I've shipped **20+ full-stack applications** from concept to production
+- 🌍 My applications are used by developers and businesses across **40+ countries**
+- ⚡ I'm obsessed with **performance optimization** - every kilobyte and millisecond matters! 🤖 I love combining **traditional web development** with **cutting-edge AI capabilities**
+- 📈 I've helped teams **reduce development time by 50%** through better tooling and practices 🎨 I believe **great UX** is just as important as solid backend architecture
+- 🚀 I'm passionate about **developer experience** and building tools that make coding more enjoyable
 
-🎯 Current Focus
-2025 Goals:
+---
 
-🏗️ Architecture: Mastering micro-frontend architectures and module federation 🤖 AI Integration: Building production-ready AI features into web applications
-📱 Mobile: Expanding into React Native and cross-platform development
-🌐 Web3: Exploring blockchain integration and decentralized application development 🎓 Teaching: Creating comprehensive full-stack development courses and workshops
+## 🎯 Current Focus
 
+**2025 Goals**:
+- 🏗️ **Architecture**: Mastering micro-frontend architectures and module federation 🤖 **AI Integration**: Building production-ready AI features into web applications  
+- 📱 **Mobile**: Expanding into React Native and cross-platform development
+- 🌐 **Web3**: Exploring blockchain integration and decentralized application development 🎓 **Teaching**: Creating comprehensive full-stack development courses and workshops
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adityasairam1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-<div align="center">
-"Crafting exceptional digital experiences, one line of code at a time" 🚀
-</div>
 
+<div align="center">
+  
+**"Crafting exceptional digital experiences, one line of code at a time"** 🚀
+
+</div>
