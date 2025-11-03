@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya Sairam Pullabhatla 👋
+# Hi there, I'm Aditya Sairam 👋
 
 ## 🚀 Full Stack Software Engineer | Enterprise Applications | AI/ML Integration Specialist
 
